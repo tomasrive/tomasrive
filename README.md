@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning React  
   
 
-- 🖥️Personal porfolio: www.tomasrivero.com  
+- 🖥️Personal porfolio: www.tomasrivero.com 
+- ✉️Connect with me: **trivero886@gmail.com** 
   
 
 <br/>  
