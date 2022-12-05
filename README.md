@@ -4,7 +4,7 @@
 ### <div align="center">A programming enthusiast!💻</div>  
   
 
-- 🌱 I’m currently learning **React and Redux**  
+- 🌱 I’m currently learning **React** and **Redux**  
   
   
 - ✉️Email: **trivero886@gmail.com** 
