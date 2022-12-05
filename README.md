@@ -50,3 +50,5 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+[linkedin]: https://www.linkedin.com/in/thomas-curvelo-a534911ba/
+[gmail]: mailto:trivero886@gmail.com
