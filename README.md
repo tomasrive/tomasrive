@@ -4,11 +4,11 @@
 ### <div align="center">A programming enthusiast!💻</div>  
   
 
-- 🌱 I’m currently learning **React** and **Redux**  
+- 🌱 I’m currently learning **React**
   
   
-- ✉️Email: **trivero886@gmail.com** 
-- 🖥️Personal porfolio: www.tomasrivero.com 
+- ✉️ Email: **trivero886@gmail.com** 
+- 🖥️ Personal porfolio: www.tomasrivero.com 
 
   
 
