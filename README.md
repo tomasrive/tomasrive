@@ -6,9 +6,10 @@
 
 - 🌱 I’m currently learning React  
   
-
+  
+- ✉️Email: **trivero886@gmail.com** 
 - 🖥️Personal porfolio: www.tomasrivero.com 
-- ✉️Connect with me: **trivero886@gmail.com** 
+
   
 
 <br/>  
