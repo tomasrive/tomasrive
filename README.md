@@ -8,7 +8,7 @@
   
   
 - ✉️ Email: **trivero886@gmail.com** 
-- 🖥️ Personal porfolio: www.tomasrivero.com 
+- 🖥️ Personal porfolio: https://tomasrivero.netlify.app/
 
   
 
